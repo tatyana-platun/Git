@@ -1,0 +1,22 @@
+ 1. Creating, cloning, pushing repositories
+    git init
+    git clone git@github.com:testrusau/testrusau.git
+    cd testrusau
+    git add .
+    git commit -m "change_README.MD"
+    git status
+    git push
+
+ 2.  Creating, adding remote repositories
+    git init                                                
+    git remote add SQL https://github.com/tatyana-platun/SQL.git                          
+    git commit -m "change sql"    
+    git status
+    git push    
+
+ 3. Сhanging information in portfolio blocks
+    git add .
+    git commit -m "change_block_1"
+    git status
+    git push
+
