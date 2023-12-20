@@ -11,7 +11,7 @@
     git status
     git push
 
-### 2.  
+### 2.  Creating, adding remote repositories
     git init                                                
     git remote add SQL https://github.com/tatyana-platun/SQL.git                          
     git commit -m "change sql"    
