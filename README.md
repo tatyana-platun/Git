@@ -16,5 +16,5 @@
     git remote add SQL https://github.com/tatyana-platun/SQL.git                          
     git commit -m "change sql"    
     git status
-    git push     
+    git push 
     
